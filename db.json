@@ -1,0 +1,24 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "name": "Ceci est ma tâche 1",
+      "done": false
+    },
+    {
+      "id": 2,
+      "name": "Ceci est ma tâche 2",
+      "done": false
+    },
+    {
+      "id": 3,
+      "name": "Ceci est ma tâche 3",
+      "done": true
+    },
+    {
+      "id": 4,
+      "name": "Ceci est ma tâche 4",
+      "done": false
+    }
+  ]
+}
